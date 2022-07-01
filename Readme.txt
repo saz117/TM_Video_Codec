@@ -1,2 +1,2 @@
-Primera pràctica de Tecnolgíes Multimèdia.
+Tecnolgíes Multimèdia.
 
